@@ -1,0 +1,30 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="576" height="512" viewBox="0 0 576 512">
+	<title></title>
+	<desc></desc>
+
+	<polygon points="140,140 160,120 200,120 240,80 400,80 440,120 480,120 500,140 500,160 480,180 140,180"
+		fill="grey" />
+
+	<polygon points="120,180 120,170 150,170 150,180" fill="#545454" />
+	<polygon points="220,120 250,90 290,90 290,120 " fill="#d1f7e6" />
+	<polygon points="320,120 320,90 380,90 380,120" fill="#d1f7e6" />
+	<polygon points="390,120 390,90 420,120" fill="#d1f7e6" />
+	<circle cx="210" cy="170" r="30" fill="black" />
+	<circle cx="210" cy="170" r="22" fill="#414040" />
+	<circle cx="430" cy="170" r="30" fill="black" />
+	<circle cx="430" cy="170" r="22" fill="#414040" />
+	<circle cx="107" cy="185" r="5" fill="black" />
+	<circle cx="86" cy="173" r="12" fill="black" />
+	<circle cx="95" cy="170" r="10" fill="black" />
+	<circle cx="72" cy="153" r="10" fill="black" />
+	<circle cx="82" cy="144" r="15" fill="black" />
+	<circle cx="102" cy="146" r="17" fill="black" />
+	<circle cx="88" cy="132" r="14" fill="black" />
+	<circle cx="107" cy="185" r="10" fill="black" />
+	<circle cx="79" cy="118" r="4" fill="black" />
+	<circle cx="102" cy="110" r="6" fill="black" />
+	<circle cx="88" cy="100" r="3" fill="black" />
+	<polygon points="480,150 480,140 490,130 500,140 500,150" fill="#edff48" />
+	<polygon points="480,150 500,150 500,160 480,160" fill="#d1d1d1" />
+
+</svg>
